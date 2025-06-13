@@ -23,5 +23,5 @@ The testbench simulates button presses over time, testing both increase and decr
 - GHDL + GTKWave
 
 ## Ouputs
-- RTL Schematic:
-- Output Waveform: 
+- RTL Schematic: https://github.com/ananyav-26/PWM-Generator/blob/main/images/PWM_rtl.png
+- Output Waveform: https://github.com/ananyav-26/PWM-Generator/blob/main/images/PWM_waveform.png
