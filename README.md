@@ -1,1 +1,1 @@
-# PWM-Generator
+This project implements a **PWM (Pulse Width Modulation) generator** in VHDL with two **debounced push-button inputs** to dynamically control the duty cycle. It's ideal for learning digital design and how PWM can be manipulated in real-time.
